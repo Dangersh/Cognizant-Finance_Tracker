@@ -1,0 +1,15 @@
+# Ignore virtual environments
+.venv/
+myenv/
+env/
+
+# Ignore Python cache and metadata
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# macOS metadata
+.DS_Store
